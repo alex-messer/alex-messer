@@ -1,19 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alex-messer/alex-messer/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/alex-messer/alex-messer/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
+<h2 align="left">Hi 👋! My name is Alex and I'm a Frontend Developer, from Bonn</h2>
 
 <h2 align="left">Used tech... more or less.</h2>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vuejs logo"  />
@@ -70,9 +57,3 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/alex-messer/alex-messer/snake-output/snake.svg" alt="Snake animation" />
-
-###
